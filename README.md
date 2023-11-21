@@ -36,6 +36,6 @@ As I continue my academic journey, I am eager to delve deeper into emerging tren
 
 # Connect With Me
 <!-- display the social media buttons in your README -->
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))]
+[![linkedin](/assets/LinkedIn1.png)][1]
 <!-- To Link your profile to the media buttons -->
-: https://www.linkedin.com/in/nikhitavk
+[1]: https://www.linkedin.com/in/nikhitavk
