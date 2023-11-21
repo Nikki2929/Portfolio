@@ -33,9 +33,3 @@ Project Engineer @ Wipro Limited, Bangalore, India (Jul 2019–Apr 2022)
 
 # Future Endeavors
 As I continue my academic journey, I am eager to delve deeper into emerging trends in data analysis. My goal is to leverage my skills and knowledge to make meaningful contributions to the field, driving innovation and efficiency in the world of data-driven decision-making.
-
-# Connect With Me
-<!-- display the social media buttons in your README -->
-/assets/LinkedIn1.png
-<!-- To Link your profile to the media buttons -->
-https://www.linkedin.com/in/nikhitavk
