@@ -5,6 +5,7 @@ Some of my Technical Skills include: Python, MySQL, Power Bi, Tableau, Excel
 
 # Education
 Data Analysis with Business Decision Making | Durham College, Oshawa, Canada (Sep 2023–Sep 2024)
+
 Bachelor of Engineering | Visvesvaraya Technological University, Karnataka, India (Jun 2015–Jun 2019)
 
 # Work Experience
