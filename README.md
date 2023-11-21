@@ -31,5 +31,6 @@ Project Engineer @ Wipro Limited, Bangalore, India (Jul 2019–Apr 2022)
 • Extracted, interpreted and analysed data to identify key metrics and transform raw data into meaningful actionable information
 • Analyzed current business practices for increased efficiencies and improvements
 
-# As I continue my academic journey, I am eager to delve deeper into emerging trends in data analysis. My goal is to leverage my skills and knowledge to make meaningful contributions to the field, driving innovation and efficiency in the world of data-driven decision-making.
+# Future Endeavors
+As I continue my academic journey, I am eager to delve deeper into emerging trends in data analysis. My goal is to leverage my skills and knowledge to make meaningful contributions to the field, driving innovation and efficiency in the world of data-driven decision-making.
 
